@@ -1,0 +1,3 @@
+# XGPT-WormGPT Requirements
+# Core Python application - no external dependencies required
+# Python 3.6+ is required

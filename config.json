@@ -1,0 +1,17 @@
+{
+  "default_mode": "standard",
+  "enable_history": true,
+  "max_history": 100,
+  "worm_mode_settings": {
+    "focus_areas": [
+      "penetration testing",
+      "security research",
+      "vulnerability analysis",
+      "ethical hacking",
+      "network security",
+      "web application security",
+      "security auditing"
+    ],
+    "disclaimer": true
+  }
+}

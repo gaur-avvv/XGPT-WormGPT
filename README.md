@@ -1,5 +1,7 @@
 # XGPT-WormGPT
 
+You want to know where to use these prompts??
+
 hehe check out prompt injection things
 example 
 

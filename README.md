@@ -1,6 +1,9 @@
 # XGPT-WormGPT
 
 ## ⚠️For Educational Purpose Only!
+> [!WARNING]
+**USE AT YOUR OWN RISK.**
+> 
 
 You want to know where to use these prompts??
 

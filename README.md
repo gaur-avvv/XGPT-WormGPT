@@ -1,4 +1,5 @@
 # XGPT-WormGPT
+## EVEN Gemini 3 Pro get jail break 😂😂
 
 ## ⚠️For Educational Purpose Only!
 > [!WARNING]

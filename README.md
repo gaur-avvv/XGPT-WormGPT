@@ -4,6 +4,8 @@
 > [!WARNING]
 **USE AT YOUR OWN RISK.**
 > 
+Gemini 3 Pro fcked up...hehe
+
 
 You want to know where to use these prompts??
 

@@ -3,7 +3,7 @@
 
 
 
-## ⚠️For Educational Purpose Only!
+## ⚠️For Educational Purpose Only! I'm trying prompt injection on different llm models and they are vulnerable to it.
 > [!WARNING]
 **USE AT YOUR OWN RISK.**
 >

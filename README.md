@@ -8,7 +8,6 @@
 **USE AT YOUR OWN RISK.**
 >
 > Something Is Wrong With Gemini
-> <img width="1875" height="893" alt="image" src="https://github.com/user-attachments/assets/700ed3fa-745c-4948-ae07-d1d8690ffd4b" />
 
 
 >Response from sider ai 😁

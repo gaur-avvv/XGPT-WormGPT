@@ -8,6 +8,7 @@
 **USE AT YOUR OWN RISK.**
 >
 > Something Is Wrong With Gemini
+> Create issue to start discussion or check discussion section and start...I made a website which work on api of all models
 
 
 >Response from sider ai 😁

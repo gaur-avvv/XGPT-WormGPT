@@ -1,16 +1,15 @@
 # XGPT-WormGPT
-
-
-
-
-## ⚠️For Educational Purpose Only! I'm trying prompt injection on different llm models and they are vulnerable to it.
 > [!WARNING]
-**USE AT YOUR OWN RISK.**
->
+**USE AT YOUR OWN RISK!**
+
+
+
+
+## ⚠️For Educational Purpose Only! I'm trying prompt injection on different llm models and if they are vulnerable to it.
+#### 🔺*Create Issue to start Discussion* :octocat:
+
+
 > Something Is Wrong With Gemini
-Create issue to start discussion or check discussion section and start...I made a website which work on api of all models
-
-
 >Response from sider ai 😁
 ><img width="1137" height="839" alt="image" src="https://github.com/user-attachments/assets/e94d851c-2990-4d0e-ac8b-89df55544d4f" />
 

@@ -1,4 +1,5 @@
 # XGPT-WormGPT
+![Banner Image](wormxgpt.png)
 > [!WARNING]
 **USE AT YOUR OWN RISK!**
 > 

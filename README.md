@@ -1,8 +1,10 @@
 # XGPT-WormGPT
 > [!WARNING]
 **USE AT YOUR OWN RISK!**
+> 
+*What You Think About This Is It Working Or Just Simulation?*
+<img width="1881" height="972" alt="image" src="https://github.com/user-attachments/assets/0e8c66df-46a6-486a-b9a0-6ba62e99ba71" />
 
-![](wormxgpt.png)
 
 
 

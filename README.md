@@ -4,7 +4,8 @@
 >
 
 > Latest Whatsapp Web Vulnerability Disable Auto Download
-``` VULNERABILITY DETAILS/REPRODUCTION CASE
+```
+VULNERABILITY DETAILS/REPRODUCTION CASE
 
 Attacker creates a WhatsApp Group
 

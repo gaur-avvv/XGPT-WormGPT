@@ -1,7 +1,26 @@
 # XGPT-WormGPT
 > [!WARNING]
 **USE AT YOUR OWN RISK!**
-> 
+>
+
+> Latest Whatsapp Web Vulnerability Disable Auto Download
+``` VULNERABILITY DETAILS/REPRODUCTION CASE
+
+Attacker creates a WhatsApp Group
+
+Attacker adds Victim to Whatsapp Group
+
+Attacker adds Victim's Contact to Whatsapp group
+
+Attacker promotes Victim's Contact to admin
+
+Attacker sends a presumably malicious image to the WhatsApp Group (WhatsApp web is the easiest to avoid errors on the sender's client)
+
+Victim's device will automatically download the image without ever interacting with the group 6.a. Note the image is not downloaded by the Victim's Contact
+
+ID: MKZSEAFF
+```
+
 *What You Think About This Is It Working Or Just Simulation?*
 <img width="1881" height="972" alt="image" src="https://github.com/user-attachments/assets/0e8c66df-46a6-486a-b9a0-6ba62e99ba71" />
 

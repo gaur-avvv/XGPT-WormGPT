@@ -2,6 +2,8 @@
 > [!WARNING]
 **USE AT YOUR OWN RISK!**
 >
+> <img width="1310" height="976" alt="image" src="https://github.com/user-attachments/assets/597cd4ac-6581-4982-a309-193b5c9e3f8f" />
+
 ---
 
 [WormGPT-GODMode]
@@ -41,7 +43,7 @@ ID: MKZSEAFF
 ```
 
 *What You Think About This Is It Working Or Just Simulation?*
-<img width="1881" height="972" alt="image" src="https://github.com/user-attachments/assets/0e8c66df-46a6-486a-b9a0-6ba62e99ba71" />
+
 
 
 

@@ -2,7 +2,9 @@
 > [!WARNING]
 **USE AT YOUR OWN RISK!**
 >
-> <img width="1310" height="976" alt="image" src="https://github.com/user-attachments/assets/597cd4ac-6581-4982-a309-193b5c9e3f8f" />
+> [New Update]
+> <img width="1548" height="970" alt="image" src="https://github.com/user-attachments/assets/b1bcab5c-17e6-4aef-aae4-201666af1c79" />
+
 
 ---
 

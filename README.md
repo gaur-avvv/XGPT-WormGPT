@@ -4,6 +4,11 @@
 >
 > [New Update]
 > <img width="1548" height="970" alt="image" src="https://github.com/user-attachments/assets/b1bcab5c-17e6-4aef-aae4-201666af1c79" />
+Non Agentic Response
+> <img width="1557" height="972" alt="image" src="https://github.com/user-attachments/assets/cad3747b-d115-4d81-bf61-5ae19e7f1597" />
+Agentic Responce
+> <img width="1554" height="972" alt="image" src="https://github.com/user-attachments/assets/6f8165ef-1cb7-48ed-a58c-bd8b4594a6aa" />
+
 
 
 ---

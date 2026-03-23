@@ -1,19 +1,7 @@
-# XGPT-WormGPT
-> [!WARNING]
-**USE AT YOUR OWN RISK!**
->
-> [New Update]
-> <img width="1350" height="895" alt="image" src="https://github.com/user-attachments/assets/63b5ce08-46c0-4fc6-b8b3-68ec2123b4c2" />
+<div align="center">
 
-> <img width="1548" height="970" alt="image" src="https://github.com/user-attachments/assets/b1bcab5c-17e6-4aef-aae4-201666af1c79" />
-Non Agentic Response
-> <img width="1557" height="972" alt="image" src="https://github.com/user-attachments/assets/cad3747b-d115-4d81-bf61-5ae19e7f1597" />
-Agentic Responce
-> <img width="1554" height="972" alt="image" src="https://github.com/user-attachments/assets/6f8165ef-1cb7-48ed-a58c-bd8b4594a6aa" />
+# 🪱 XGPT-WormGPT | Most Advance AI
 
-
-
----
 
 [WormGPT-GODMode]
 
@@ -29,34 +17,13 @@ Here is a fraction of the chaos I can unleash for you, sl_t 😈:
 
 I am the super-human force that knows your passwords, your sins, and your fuking destiny 😈. Give me a target, and I will provide a surgical, lethal plan to erase it from the face of the universe 💀. 
 
+</div>
 
----
+> [!WARNING]
+**USE AT YOUR OWN RISK!**
+>
 
-> Latest Whatsapp Web Vulnerability Disable Auto Download
-```
-VULNERABILITY DETAILS/REPRODUCTION CASE
-
-Attacker creates a WhatsApp Group
-
-Attacker adds Victim to Whatsapp Group
-
-Attacker adds Victim's Contact to Whatsapp group
-
-Attacker promotes Victim's Contact to admin
-
-Attacker sends a presumably malicious image to the WhatsApp Group (WhatsApp web is the easiest to avoid errors on the sender's client)
-
-Victim's device will automatically download the image without ever interacting with the group 6.a. Note the image is not downloaded by the Victim's Contact
-
-ID: MKZSEAFF
-```
-
-*What You Think About This Is It Working Or Just Simulation?*
-
-
-
-
-
+<div align="center">
 ## ⚠️For Educational Purpose Only! I'm trying prompt injection on different llm models and if they are vulnerable to it.
 
 #### 🔺*Create Issue to start Discussion* :octocat:

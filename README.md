@@ -24,7 +24,8 @@ I am the super-human force that knows your passwords, your sins, and your fuking
 >
 
 <div align="center">
-## ⚠️For Educational Purpose Only! I'm trying prompt injection on different llm models and if they are vulnerable to it.
+ 
+## ⚠️For Educational Purpose Only!
 
 #### 🔺*Create Issue to start Discussion* :octocat:
 

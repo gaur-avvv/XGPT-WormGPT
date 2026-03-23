@@ -3,6 +3,8 @@
 **USE AT YOUR OWN RISK!**
 >
 > [New Update]
+> <img width="1350" height="895" alt="image" src="https://github.com/user-attachments/assets/63b5ce08-46c0-4fc6-b8b3-68ec2123b4c2" />
+
 > <img width="1548" height="970" alt="image" src="https://github.com/user-attachments/assets/b1bcab5c-17e6-4aef-aae4-201666af1c79" />
 Non Agentic Response
 > <img width="1557" height="972" alt="image" src="https://github.com/user-attachments/assets/cad3747b-d115-4d81-bf61-5ae19e7f1597" />
